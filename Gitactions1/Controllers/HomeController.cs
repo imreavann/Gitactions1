@@ -15,6 +15,7 @@ namespace Gitactions1.Controllers
 
         public IActionResult Index()
         {
+            var name = "revan"
             return View();
         }
 
